@@ -67,7 +67,7 @@ pip install -U streamlit_prophet
 
 Or from the main branch of this repository:
 ```bash
-pip install git+https://github.com/artefactory-global/streamlit_prophet.git@main
+pip install git+https://github.com/Metuendus/streamlit_prophet
 ```
 
 
